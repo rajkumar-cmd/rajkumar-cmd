@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rajkumar Pradhan</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
+<p align="center"><a href="https://github.com/rajkumar-cmd/rajkumar-cmd/files/10723715/Rajkumar_Pradhan_Resume-05f1b105.1.pdf" download className={Style.anchor1}><img src="https://user-images.githubusercontent.com/60788879/218503087-8b76204c-eb88-4275-a9e5-7560ef497529.jpg" alt="Girl in a jacket" width="150" height="60"></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumar-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumar-cmd" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkumar-cmd" alt="rajkumar-cmd" /></a> </p>

@@ -37,8 +37,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumar-cmd&show_icons=true&locale=en&layout=compact" alt="rajkumar-cmd" /></p>
 
-
-
-<hr>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumar-cmd&" alt="rajkumar-cmd" /></p>
